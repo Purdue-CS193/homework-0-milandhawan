@@ -1,7 +1,7 @@
 # Milan Dhawan's First CS193 Homework
 
 ```markdown
-## My Favorite Things about CS193
+My Favorite Things about CS193
 
 - The TAs
 - The questions we get asked at the start of class
